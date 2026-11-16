@@ -1,6 +1,6 @@
 ---
-title: Nicht weiter so Erinnern. Aufwachen. Frieden stiften.
-subtitle: Erinnern, aufwachen, Frieden stiften
+title: Nicht weiter so
+subtitle: Erinnern. Aufwachen. Frieden stiften.
 date: 2026-11-15
 slug: nicht-weiter-so-erinnern-aufwachen-frieden-stiften
 scripture: Lukas 16,1-8
